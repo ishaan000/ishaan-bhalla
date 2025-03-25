@@ -1,2 +1,2 @@
-# ishaan-bhalla
+# Ishaan Bhalla
 Ishaan's Website
