@@ -1,7 +1,9 @@
+import Text from "@mui/material/Typography";
+
 export default function Home() {
   return (
     <div>
-      <h1>Ishaan Bhalla</h1>
+      <Text variant="h2">Ishaan Bhalla</Text>
     </div>
   );
 }
